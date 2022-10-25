@@ -1,4 +1,3 @@
-#Q1. Write a program to find all pairs of an integer array whose sum is equal to a given number?
 def printPairs(arr, n, sum):
     for i in range(0, n ):
         for j in range(i + 1, n ):
